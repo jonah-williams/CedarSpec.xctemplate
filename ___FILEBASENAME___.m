@@ -15,15 +15,15 @@ SPEC_BEGIN(___VARIABLE_specSubject___Spec)
 
 describe(@"___VARIABLE_specSubject___", ^{
 	beforeEach(^{
-		//before each content
+		
 	});
 
 	afterEach(^{
-		//after each content
+		
 	});
 
 	it(@"should ", ^{
-		//expected behavior content
+		
 	});
 });
 
